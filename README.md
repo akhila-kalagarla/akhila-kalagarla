@@ -2,7 +2,7 @@
 
 👩‍💻 KALAGARLA AKHILA
 
-🎓ABOUT ME:Hi there, I'm kalagarla Akhila! I am passionate about learning and sharing knowledge in the exciting world of coding and technology.🌐Actively participating in the global coding community as a member of the club|Code enthusiast Always eager ti learn new things and expand my skills.
+🎓ABOUT ME:Hi there, I'm kalagarla Akhila! I am passionate about learning and sharing knowledge in the exciting world of coding and technology.🌐Actively participating in the global coding community as a member of the club|Code enthusiast Always eager to learn new things and expand my skills.
 
 🌟 Passionate learner: Enthusiastic about exploring various aspects of technology, particularly in the realm of coding and software development.
 

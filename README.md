@@ -10,4 +10,4 @@
 
 📚 Collaboration: Always open to collaborating with fellow developers and learners. I believe in the power of teamwork and knowledge sharing to achieve greater outcomes.
 
-🔗 Connect with me: Feel free to connect with me on LinkedIn to discuss ideas, projects, or just to say hi! LinkedIn [https://www.linkedin.com/in/akhila-kalagarla-369155253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]
+🔗 Connect with me: Feel free to connect with me on LinkedIn to discuss ideas, projects, or just to say hi![ https://www.linkedin.com/in/akhila-kalagarla-369155253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app]

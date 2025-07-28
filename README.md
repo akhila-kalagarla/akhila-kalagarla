@@ -1,13 +1,64 @@
-### Hi there 👋
+# 👋 Hi there! I'm Kalagarla Akhila
 
-👩‍💻 KALAGARLA AKHILA
+## 👩‍💻 About Me
 
-🎓ABOUT ME:Hi there, I'm kalagarla Akhila! I am passionate about learning and sharing knowledge in the exciting world of coding and technology.🌐Actively participating in the global coding community as a member of the club|Code enthusiast Always eager to learn new things and expand my skills.
+Hi! I'm Kalagarla Akhila — a passionate and curious learner in the exciting world of technology. I actively participate in the global coding community and love building and exploring projects that challenge my creativity and technical skills.
 
-🌟 Passionate learner: Enthusiastic about exploring various aspects of technology, particularly in the realm of coding and software development.
+🌐 A proud member of my college's coding club, I enjoy contributing to the tech community, learning from others, and sharing what I know.  
+🤝 I’ve also mentored junior teams during hackathons, guiding them in choosing the right technologies, brainstorming project ideas, and ensuring smooth project execution.  
+🏆 Recently secured **2nd Prize in a Machine Learning Hackathon**, and achieved **two-time wins in Python Coding Challenges** on Edyst platform.  
+💡 I'm always excited to learn new technologies and improve my problem-solving abilities through hands-on experience.
 
-💻 Current focus: Engaged in web development and machine learning projects. Currently, I'm diving into new technologies to enhance my skills and understanding| Constantly learning and exploring new technologies 🌟
+---
 
-📚 Collaboration: Always open to collaborating with fellow developers and learners. I believe in the power of teamwork and knowledge sharing to achieve greater outcomes.
+## 🛠 Tech Skills
 
-🔗 Connect with me: Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/akhila-kalagarla-369155253?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) to discuss ideas, projects, or just to say hi!
+### 💼 Currently Working With:
+- HTML5, CSS3, JavaScript (ES6+)
+- React.js
+- Node.js, Express.js
+- MongoDB
+- Flask
+- Python (Programming & ML Libraries: NumPy, Pandas, scikit-learn)
+
+### 📚 Planning to Learn:
+- TypeScript
+- Next.js
+- TensorFlow / Keras for deep learning
+- Docker & Deployment tools
+
+---
+
+## 🚀 Projects I’ve Worked On
+
+- **🌍 Environmental Issue Reporting System**  
+  A full-stack MERN app for users to report local environmental issues with photos, and for admins to update status via a dashboard.
+
+- **🧠 Resume Shortlisting using ANN**  
+  A machine learning-based web app using Streamlit that predicts shortlisting chances based on resume and job description matching.
+
+- **🎮 Guess the Number Game**  
+  A fun web-based game built using Python, HTML, and CSS. It limits users to 7 guesses and displays win/loss messages.
+
+- **🏫 College Clubs Showcase Website**  
+  A static website using only HTML and CSS to highlight all clubs in our college and their activities.
+
+---
+
+## 🏅 Achievements & Certifications
+
+- 🥈 **2nd Prize in Machine Learning Hackathon**
+- 🏆 **Two-time Winner in Python Coding Challenges** – Edyst Platform
+- 👩‍🏫 **Hackathon Mentor** – Guided junior teams in project development and technology choices
+- 📜 **AI & ML Internship – APSSDC x Edunet Foundation**
+- 📜 **Infosys Springboard – Artificial Intelligence**
+- 📜 **Introduction to Frontend Development – Meta (Coursera)**
+
+
+---
+
+## 🔗 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalagarla%20Akhila-blue?logo=linkedin)](https://www.linkedin.com/in/akhila-kalagarla-369155253)
+
+Let’s connect and collaborate on exciting ideas, innovative projects, or just to share knowledge!

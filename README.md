@@ -6,7 +6,7 @@ Hi! I'm Kalagarla Akhila — a passionate and curious learner in the exciting wo
 
 🌐 A proud member of my college's coding club, I enjoy contributing to the tech community, learning from others, and sharing what I know.  
 🤝 I’ve also mentored junior teams during hackathons, guiding them in choosing the right technologies, brainstorming project ideas, and ensuring smooth project execution.  
-🏆 Recently secured **2nd Prize in a Machine Learning Hackathon**, and achieved **two-time wins in Python Coding Challenges** on Edyst platform.  
+🏆 I secured **2nd Prize in a Machine Learning Hackathon**, and achieved **two-time wins in Python Coding Challenges** on Edyst platform.  
 💡 I'm always excited to learn new technologies and improve my problem-solving abilities through hands-on experience.
 
 ---

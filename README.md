@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm Kalagarla Akhila
+# 👋 Hi there! I'm Akhila Kalagarla
 
 ## 👩‍💻 About Me
 
@@ -32,13 +32,10 @@ Hi! I'm Kalagarla Akhila — a passionate and curious learner in the exciting wo
 ## 🚀 Projects I’ve Worked On
 
 - **🌍 Environmental Issue Reporting System**  
-  A full-stack MERN app for users to report local environmental issues with photos, and for admins to update status via a dashboard.
+  A python full-stack app for users to report local environmental issues with photos, and for admins to update status via a dashboard.
 
 - **🧠 Resume Shortlisting using ANN**  
   A machine learning-based web app using Streamlit that predicts shortlisting chances based on resume and job description matching.
-
-- **🎮 Guess the Number Game**  
-  A fun web-based game built using Python, HTML, and CSS. It limits users to 7 guesses and displays win/loss messages.
 
 - **🏫 College Clubs Showcase Website**  
   A static website using only HTML and CSS to highlight all clubs in our college and their activities.

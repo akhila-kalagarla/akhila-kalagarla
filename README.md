@@ -2,7 +2,7 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm Kalagarla Akhila — a passionate and curious learner in the exciting world of technology. I actively participate in the global coding community and love building and exploring projects that challenge my creativity and technical skills.
+Hi! I'm Akhila Kalagarla — a passionate and curious learner in the exciting world of technology. I actively participate in the global coding community and love building and exploring projects that challenge my creativity and technical skills.
 
 🌐 A proud member of my college's coding club, I enjoy contributing to the tech community, learning from others, and sharing what I know.  
 🤝 I’ve also mentored junior teams during hackathons, guiding them in choosing the right technologies, brainstorming project ideas, and ensuring smooth project execution.  
@@ -16,13 +16,12 @@ Hi! I'm Kalagarla Akhila — a passionate and curious learner in the exciting wo
 ### 💼 Currently Working With:
 - HTML5, CSS3, JavaScript (ES6+)
 - React.js
-- Node.js, Express.js
 - MongoDB
 - Flask
 - Python (Programming & ML Libraries: NumPy, Pandas, scikit-learn)
 
 ### 📚 Planning to Learn:
-- TypeScript
+- Node.js, Express.js
 - Next.js
 - TensorFlow / Keras for deep learning
 - Docker & Deployment tools
@@ -48,9 +47,9 @@ Hi! I'm Kalagarla Akhila — a passionate and curious learner in the exciting wo
 - 🏆 **Two-time Winner in Python Coding Challenges** – Edyst Platform
 - 👩‍🏫 **Hackathon Mentor** – Guided junior teams in project development and technology choices
 - 📜 **AI & ML Internship – APSSDC x Edunet Foundation**
-- 📜 **Infosys Springboard – Artificial Intelligence**
+- 📜 **Artificial Intelligence – Infosys Springboard**
 - 📜 **Introduction to Frontend Development – Meta (Coursera)**
-
+- 📜 **Python Full Stack - GeeksforGeeks**
 
 ---
 

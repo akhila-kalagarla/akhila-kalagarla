@@ -25,6 +25,7 @@ Hi! I'm Akhila Kalagarla — a passionate and curious learner in the exciting wo
 - Node.js, Express.js
 - Next.js
 - LLM's, RAG Pipeline
+- SQL
 - Docker & Deployment tools
 
 ---

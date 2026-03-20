@@ -20,12 +20,12 @@ Hi! I'm Akhila Kalagarla — a passionate and curious learner in the exciting wo
 - Flask
 - Python (Programming & ML Libraries: NumPy, Pandas, scikit-learn)
 - Machine Learning Fundamentals, NLP, ANN
-- Data Analysis, Preprocessing, Visualisation
+- Data Preprocessing, Analysis, and Visualization
 
 ### 📚 Planning to Learn:
 - Node.js, Express.js
 - Next.js
-
+- LLM's, RAG Pipeline
 - Docker & Deployment tools
 
 ---
@@ -33,7 +33,10 @@ Hi! I'm Akhila Kalagarla — a passionate and curious learner in the exciting wo
 ## 🚀 Projects I’ve Worked On
 
 - **🌍 Environmental Issue Reporting System**  
-  A python full-stack app for users to report local environmental issues with photos, and for admins to update status via a dashboard.
+  We built an Environmental Issue Reporting System for citizens to submit problems with photo evidence.
+  Admins can view reports and update status to Pending or Solved (optionally add notes).
+  Each issue is categorized and routed to the right department page (e.g., Road → Transport, Drainage/Garbage → Sanitation).
+  The website also includes a chatbot to guide users on how to submit effectively.
 
 - **🧠 Resume Shortlisting using ANN**  
   A machine learning-based web app using Streamlit that predicts shortlisting chances based on resume and job description matching.
@@ -48,10 +51,11 @@ Hi! I'm Akhila Kalagarla — a passionate and curious learner in the exciting wo
 - 🥈 **2nd Prize in Machine Learning Hackathon**
 - 🏆 **Two-time Winner in Python Coding Challenges** – Edyst Platform
 - 👩‍🏫 **Hackathon Mentor** – Guided junior teams in project development and technology choices
-- 📜 **AI & ML Internship – APSSDC x Edunet Foundation**
-- 📜 **Artificial Intelligence – Infosys Springboard**
-- 📜 **Introduction to Frontend Development – Meta (Coursera)**
-- 📜 **Python Full Stack - GeeksforGeeks**
+- 📜 **AI & ML Internship** – APSSDC x Edunet Foundation
+- 📜 **Artificial Intelligence** – Infosys Springboard
+- 📜 **Python Full Stack** - GeeksforGeeks
+- 📜 **Foundation of Modern Machine Learning** - IIIT HYD
+- 📜 **Frontend Developer (React)** - HackerRank Platform
 
 ---
 

@@ -19,11 +19,13 @@ Hi! I'm Akhila Kalagarla — a passionate and curious learner in the exciting wo
 - MongoDB
 - Flask
 - Python (Programming & ML Libraries: NumPy, Pandas, scikit-learn)
+- Machine Learning Fundamentals, NLP, ANN
+- Data Analysis, Preprocessing, Visualisation
 
 ### 📚 Planning to Learn:
 - Node.js, Express.js
 - Next.js
-- TensorFlow / Keras for deep learning
+
 - Docker & Deployment tools
 
 ---

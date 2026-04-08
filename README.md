@@ -33,6 +33,7 @@ Hi! I'm Akhila Kalagarla — a passionate and curious learner in the exciting wo
 ## 🚀 Projects I’ve Worked On
 
 - **🌍 SmartGriev – AI-Based Public Issue Reporting System**
+
   Developed a platform for citizens to report public issues with real-time tracking. Includes issue categorization, admin dashboard for status updates, and AI-based classification to improve efficiency and transparency.
 
 - **🧠 Resume Shortlisting using ANN**  

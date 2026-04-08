@@ -32,11 +32,8 @@ Hi! I'm Akhila Kalagarla — a passionate and curious learner in the exciting wo
 
 ## 🚀 Projects I’ve Worked On
 
-- **🌍 Environmental Issue Reporting System**  
-  We built an Environmental Issue Reporting System for citizens to submit problems with photo evidence.
-  Admins can view reports and update status to Pending or Solved (optionally add notes).
-  Each issue is categorized and routed to the right department page (e.g., Road → Transport, Drainage/Garbage → Sanitation).
-  The website also includes a chatbot to guide users on how to submit effectively.
+- **🌍 SmartGriev – AI-Based Public Issue Reporting System
+Developed a platform for citizens to report public issues with real-time tracking. Includes issue categorization, admin dashboard for status updates, and AI-based classification to improve efficiency and transparency.
 
 - **🧠 Resume Shortlisting using ANN**  
   A machine learning-based web app using Streamlit that predicts shortlisting chances based on resume and job description matching.

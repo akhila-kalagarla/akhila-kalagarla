@@ -1,14 +1,14 @@
-# 👋 Hi there! I'm Akhila Kalagarla
+# 👋 Hi there! I'm Kalagarla Akhila
 
 ## 👩‍💻 About Me
 
-Hi! I'm **Akhila Kalagarla**, a **B.Tech graduate in Artificial Intelligence and Data Science** with a strong interest in software development, AI/ML, and emerging technologies.
+Hi! I'm **Kalagarla Akhila**, a **B.Tech graduate in Artificial Intelligence and Data Science** with a strong interest in software development, AI/ML, and emerging technologies.
 
 💻 I enjoy building practical projects, solving problems, and continuously improving my technical skills through hands-on learning.
 
-🌐 I’m a **member and Tech Lead of the Global Coding Club at KIET**, where I have also mentored junior teams during hackathons, helping them with project ideas, technology selection, and project development.
+🌐 I’m a member and Tech Lead of the Global Coding Club at KIET, where I have also mentored junior teams during hackathons, helping them with project ideas, technology selection, and project development.
 
-📚 **Currently, I’m learning SAP ABAP** and exploring SAP's technical ecosystem. I’m interested in understanding how programming, databases, and business applications work together.
+📚 Currently, I’m learning SAP ABAP and exploring SAP's technical ecosystem. I’m interested in understanding how programming, databases, and business applications work together.
 
 💡 I’m always curious to learn new technologies and turn ideas into practical projects.
 

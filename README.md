@@ -2,58 +2,84 @@
 
 ## 👩‍💻 About Me
 
-Hi! I'm Akhila Kalagarla — a passionate and curious learner in the exciting world of technology. I actively participate in the global coding community and love building and exploring projects that challenge my creativity and technical skills.
+Hi! I'm **Akhila Kalagarla**, a **B.Tech graduate in Artificial Intelligence and Data Science** with a strong interest in software development, AI/ML, and emerging technologies.
 
-🌐 A proud member of my college's coding club, I enjoy contributing to the tech community, learning from others, and sharing what I know.  
-🤝 I’ve also mentored junior teams during hackathons, guiding them in choosing the right technologies, brainstorming project ideas, and ensuring smooth project execution.   
-💡 I'm always excited to learn new technologies and improve my problem-solving abilities through hands-on experience.
+💻 I enjoy building practical projects, solving problems, and continuously improving my technical skills through hands-on learning.
+
+🌐 I’m a **member and Tech Lead of the Global Coding Club at KIET**, where I have also mentored junior teams during hackathons, helping them with project ideas, technology selection, and project development.
+
+📚 **Currently, I’m learning SAP ABAP** and exploring SAP's technical ecosystem. I’m interested in understanding how programming, databases, and business applications work together.
+
+💡 I’m always curious to learn new technologies and turn ideas into practical projects.
 
 ---
 
-## 🛠 Tech Skills
+## 🛠️ Tech Skills
 
-### 💼 Currently Working With:
-- HTML5, CSS3, JavaScript (ES6+)
-- React.js
-- MongoDB
+### 💻 Programming & Development
+
+- Python
+- HTML5
+- CSS3
+- JavaScript
+- React.js (Basic)
 - Flask
-- Python (Programming & ML Libraries: NumPy, Pandas, scikit-learn)
-- Machine Learning Fundamentals, NLP, ANN
-- Data Preprocessing, Analysis, and Visualization
-
-### 📚 Planning to Learn:
-- Node.js, Express.js
-- Next.js
-- LLM's, RAG Pipeline
 - SQL
-- Docker & Deployment tools
+- MongoDB
+
+### 🤖 AI & Machine Learning
+
+- NumPy
+- Pandas
+- scikit-learn
+- TensorFlow & Keras
+- Machine Learning Fundamentals
+- NLP
+- ANN
+- Data Preprocessing, Analysis & Visualization
+
+### 📚 Currently Learning
+
+- **SAP ABAP**
+- SAP Technical Fundamentals
+- LLMs & RAG Concepts
+- Docker & Deployment
+
+### 🧰 Tools
+
+- Git & GitHub
+- Google Colab
+- VS Code
 
 ---
 
-## 🚀 Projects I’ve Worked On
+## 🚀 Projects I've Worked On
 
-- **🌍 SmartGriev – AI-Based Public Issue Reporting System**
+### 🌍 SmartGriev – AI-Based Public Issue Reporting System
 
-  Developed a platform for citizens to report public issues with real-time tracking. Includes issue categorization, admin dashboard for status updates, and AI-based classification to improve efficiency and transparency.
+An AI-powered platform that allows citizens to report public issues using images, descriptions, and locations. The system includes issue categorization, priority assignment, duplicate complaint detection, status tracking, and an admin dashboard.
 
-- **🧠 Resume Shortlisting using ANN**  
-  A machine learning-based web app using Streamlit that predicts shortlisting chances based on resume and job description matching.
+### 🧠 Resume Shortlisting using ANN
 
-- **🏫 College Clubs Showcase Website**  
-  A static website using only HTML and CSS to highlight all clubs in our college and their activities.
+A machine learning-based web application built using **Python and Streamlit** that analyzes resumes and job descriptions to predict shortlisting chances.
+
+### 🏫 College Clubs Showcase Website
+
+A website developed using **HTML and CSS** to showcase different college clubs and their activities.
 
 ---
 
 ## 🏅 Achievements & Certifications
 
-- 🥈 **2nd Prize in Machine Learning Hackathon**
-- 🏆 **Two-time Winner in Python Coding Challenges** – Edyst Platform
-- 👩‍🏫 **Hackathon Mentor** – Guided junior teams in project development and technology choices
-- 📜 **AI & ML Internship** – APSSDC x Edunet Foundation
+- 🥈 **2nd Prize – Machine Learning Hackathon**
+- 🏆 **Two-Time Winner – Python Coding Challenges** | Edyst
+- 👩‍🏫 **Hackathon Mentor** – Guided junior teams in project development
+- 👩‍💻 **Tech Lead & Member – Global Coding Club @ KIET**
+- 📜 **AI & ML Internship** – APSSDC × Edunet Foundation
 - 📜 **Artificial Intelligence** – Infosys Springboard
-- 📜 **Python Full Stack** - GeeksforGeeks
-- 📜 **Foundation of Modern Machine Learning** - IIIT HYD
-- 📜 **Frontend Developer (React)** - HackerRank Platform
+- 📜 **Python Full Stack** – GeeksforGeeks
+- 📜 **Foundation of Modern Machine Learning** – IIIT Hyderabad
+- 📜 **Frontend Developer (React)** – HackerRank
 
 ---
 
@@ -61,4 +87,6 @@ Hi! I'm Akhila Kalagarla — a passionate and curious learner in the exciting wo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Kalagarla%20Akhila-blue?logo=linkedin)](https://www.linkedin.com/in/akhila-kalagarla-369155253)
 
-Let’s connect and collaborate on exciting ideas, innovative projects, or just to share knowledge!
+I’m always open to **learning, collaborating, building projects, and connecting with fellow developers and technology enthusiasts.** 🚀
+
+**Keep learning. Keep building. Keep growing.** 🌱

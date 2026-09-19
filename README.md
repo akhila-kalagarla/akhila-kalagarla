@@ -42,8 +42,7 @@ Hi! I'm **Akhila Kalagarla**, a **B.Tech graduate in Artificial Intelligence and
 
 - **SAP ABAP**
 - SAP Technical Fundamentals
-- LLMs & RAG Concepts
-- Docker & Deployment
+- LLMs Concepts
 
 ### 🧰 Tools
 
@@ -62,10 +61,6 @@ An AI-powered platform that allows citizens to report public issues using images
 ### 🧠 Resume Shortlisting using ANN
 
 A machine learning-based web application built using **Python and Streamlit** that analyzes resumes and job descriptions to predict shortlisting chances.
-
-### 🏫 College Clubs Showcase Website
-
-A website developed using **HTML and CSS** to showcase different college clubs and their activities.
 
 ---
 
